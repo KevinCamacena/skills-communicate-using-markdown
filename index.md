@@ -27,3 +27,20 @@ var myVar = "Hello, world!";
 ``` python
 print("This is working")
 ```
+
+## Creating some task list
+### Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+#### Programming Languages
+- [x] C/C++
+- [x] C#
+- [x] Java
+- [ ] Kotlin
+- [ ] Scala
+
+### Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
