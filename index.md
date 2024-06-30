@@ -11,3 +11,19 @@ Some languages I code in
 ![Go lang](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/895/073/datas/gallery.jpg)
 
 ![Zig lang](https://th.bing.com/th/id/OIP.vk3hHnrxTclNRyCz-87DpQHaEK?rs=1&pid=ImgDetMain)
+
+## Creating a git commit
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Something else in JavaScript
+``` javascript
+var myVar = "Hello, world!";
+```
+
+### And a little of python
+``` python
+print("This is working")
+```
